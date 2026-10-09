@@ -1,0 +1,7 @@
+while True:
+  a = input("Ievadi skaitli: ")
+  if a == "yoghurt":
+    print("gurt:yo")
+    break
+  else:
+    print("😭🙏")
